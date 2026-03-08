@@ -10,6 +10,6 @@ To use your own model update the model.cc file.
 ![Serial Plotter Screenshot](images/Screenshot_Plotter.png)
 
 
-## Demo
+## LED COS
 
 ![Arduino LEDCOS Demo](images/ledcos.gif)
