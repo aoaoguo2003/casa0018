@@ -1,18 +1,17 @@
 # Project Idea
 
-## Title: Your snappy project title
+## Title: On-Device Rock–Paper–Scissors Self-Competition System
 
 ---
 
 ## Idea: 
 Complete the sentence:
 
-**I want my project to be able to (1) .................... using the (2)............... on my (3)...........**
+**I want my project to be able to (1) play rock–paper–scissors against the user by recognising dynamic hand motion gestures using the (2) IMU (accelerometer and gyroscope) on my (3) Arduino**
 
+**The device randomly selects rock, paper, or scissors and displays the move using the RGB LED，The arduino compares both moves and display the winner by LED**
 
-1. *e.g. detect when i say "wotcha", recognise a bird in a live camera stream etc*
-2. *e.g. camera, microphone, accelerometer etc*
-3. *e.g. arduino, laptop, RPi etc*
+**
 
 ---
 
